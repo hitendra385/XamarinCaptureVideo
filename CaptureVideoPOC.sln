@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CaptureVideoPOC", "CaptureVideoPOC\CaptureVideoPOC.shproj", "{E86BBF12-BE33-47D8-9DD6-AC68CF667092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureVideoPOC.iOS", "iOS\CaptureVideoPOC.iOS.csproj", "{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Release|iPhone.Build.0 = Release|iPhone
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

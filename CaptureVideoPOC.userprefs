@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B2AF36B3-D54F-490A-BB70-4EAB471F8C81}|Default">
+  <MonoDevelop.Ide.ItemProperties.CaptureVideoPOC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.0e484e54e4c20188f96ffdff84051cfd3b82cbcf" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CaptureVideoPOC/Views/MainPage.cs">
+    <Files>
+      <File FileName="CaptureVideoPOC/Views/NewItemPage.xaml" Line="21" Column="15" />
+      <File FileName="CaptureVideoPOC/AppResources.resx" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="CaptureVideoPOC/App.xaml.cs" Line="14" Column="29" />
+      <File FileName="CaptureVideoPOC/Views/CameraPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CaptureVideoPOC/Views/CameraPage.xaml" Line="6" Column="1" />
+      <File FileName="iOS/PhoneTranslater.cs" Line="1" Column="1" />
+      <File FileName="CaptureVideoPOC/Views/MainPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hitendra.singh/Projects/CaptureVideoPOC/CaptureVideoPOC/Services/CloudDataStore.cs" relfile="CaptureVideoPOC/Services/CloudDataStore.cs" line="48" column="1" />
+      <Breakpoint file="/Users/hitendra.singh/Projects/CaptureVideoPOC/CaptureVideoPOC/Views/ItemsPage.xaml.cs" relfile="CaptureVideoPOC/Views/ItemsPage.xaml.cs" line="33" column="1" />
+      <Breakpoint file="/Users/hitendra.singh/Projects/CaptureVideoPOC/CaptureVideoPOC/Views/ItemsPage.xaml.cs" relfile="CaptureVideoPOC/Views/ItemsPage.xaml.cs" line="38" column="1" />
+      <Breakpoint file="/Users/hitendra.singh/Projects/CaptureVideoPOC/CaptureVideoPOC/Views/ItemsPage.xaml.cs" relfile="CaptureVideoPOC/Views/ItemsPage.xaml.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/Kastle/KVM/Branch/KFOLite.Mobile.1.0.0/KFOLite.Mobile/iOS/Implementations/CameraPageRenderer.cs" line="208" offsetX="564" offsetY="2898" expression="features" liveUpdate="False" />
+    <Watch file="../../Documents/Projects/KFOLiteAppv3.0/KFOLite.Mobile.ServiceHelper/VisitorServiceHelper.cs" line="116" offsetX="834" offsetY="1725" expression="GetUrl(_getPreAuthVisitorFromCentral)" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
